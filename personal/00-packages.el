@@ -4,7 +4,7 @@
 ;; My packages
 (setq prelude-packages (append '(
                                  fill-column-indicator
-				 flatland
+                                 flatland-theme
                                  ) prelude-packages))
 
 ;; Install my packages
